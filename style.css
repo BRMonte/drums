@@ -1,9 +1,11 @@
-#bg {
-  position: fixed;
-  top: 0;
-  left: 0;
+html {
+  font-size: 10px;
+  background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background-size: cover;
+}
 
-  /* Preserve aspet ratio */
-  min-width: 100%;
-  min-height: 100%;
+body,html {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
 }
